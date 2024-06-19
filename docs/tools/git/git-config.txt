@@ -1,0 +1,29 @@
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[user]
+	name = huanjia_lin
+	email = huanjia_lin@sui.com
+[gui]
+  encoding = UTF-8
+[core]
+  autocrlf = false
+[color]
+  ui = auto
+[branch]
+	autosetuprebase = always
+[alias]
+  st = status
+  ci = commit
+  co = checkout
+  br = branch
+  rb = reset --hard ORIG_HEAD
+  unstage = reset HEAD
+  lg = log --graph --oneline --decorate
+  last = log --graph --oneline --decorate origin/master..HEAD
+[http]
+	proxy = http://127.0.0.1:8118
+[https]
+	proxy = https://127.0.0.1:8118
