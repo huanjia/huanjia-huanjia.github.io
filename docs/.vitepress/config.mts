@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'hj的笔记',
+  title: 'apriate的笔记',
   description: '好记性不如烂笔头',
   base: '/',
   themeConfig: {

@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: 'hj的笔记'
+  name: 'apriate的笔记'
   # text: '好记性不如烂笔头'
   tagline: 好记性不如烂笔头
   actions:
