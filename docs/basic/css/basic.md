@@ -55,7 +55,9 @@ display:table + display:table-cell + vertical-align: middle;
 
 # Flex
 
-[flex](https://juejin.cn/post/6844903474774147086)
+## 参考
+
+- [flex](https://juejin.cn/post/6844903474774147086)
 
 # Animation
 

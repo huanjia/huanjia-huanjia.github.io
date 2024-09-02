@@ -113,4 +113,4 @@ import(/* webpackChunkName: "my-chunk-name" */ './test')
 
 ## 参考:
 
-- [「Webpack」从 0 到 1 学会 code splitting](https://mp.weixin.qq.com/s/yaKssOVGTeRnU6luWnjdww)
+- [Webpack 从 0 到 1 学会 code splitting](https://mp.weixin.qq.com/s/yaKssOVGTeRnU6luWnjdww)

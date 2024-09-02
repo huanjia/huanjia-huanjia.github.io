@@ -68,6 +68,7 @@ export default defineConfig({
         text: '浏览器',
         items: [
           { text: '事件循环', link: '/basic/browser/event-loop.md' },
+          { text: '渲染原理', link: '/basic/browser/render-mechanism.md' },
           { text: '灰度机制', link: '/basic/browser/gray-realease.md' },
           { text: '垃圾回收', link: '/basic/browser/js-run-gc.md' },
           { text: '性能优化', link: '/basic/browser/performance.md' },
